@@ -25,12 +25,17 @@ This project was created as part of our **1–2 semester project**.
 - **Database:** MySQL  
 - **UI:** Java Swing (NetBeans GUI) 
 
-## Screenshots
+## 📸 Screenshots
 
-![Home Page](https://i.ibb.co.com/2Yh4LwDP/Screenshot-2025-09-15-223717.png)
-![Login Page](https://ibb.co.com/2Yh4LwDP)
-![Admin Dashboard](https://i.ibb.co/your-image-link2.png)
-![Student Panel](https://i.ibb.co/your-image-link3.png)
+### Home Page
+![Login Page](https://i.ibb.co/2Yh4LwDP/Screenshot-2025-09-15-223717.png)
+
+### Exam site
+![Dashboard](https://i.ibb.co/q3XQmL5h/Screenshot-2025-09-15-224328.png)
+
+### Result Page
+![Result Page](https://i.ibb.co/MxCqbQC7/Screenshot-2025-09-15-230859.png)
+
 
 
 ## ⚙️ Installation & Setup
