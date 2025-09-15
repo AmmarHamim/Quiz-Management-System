@@ -28,7 +28,7 @@ This project was created as part of our **1–2 semester project**.
 ## Screenshots
 
 ![Home Page](https://i.ibb.co.com/2Yh4LwDP/Screenshot-2025-09-15-223717.png)
-![Login Page](https://i.ibb.co/your-image-link.png)
+![Login Page](https://ibb.co.com/2Yh4LwDP)
 ![Admin Dashboard](https://i.ibb.co/your-image-link2.png)
 ![Student Panel](https://i.ibb.co/your-image-link3.png)
 
