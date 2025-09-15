@@ -24,6 +24,10 @@ It allows **admins** to create and manage quizzes/exams, while **students** can 
 - **Database:** MySQL  
 - **UI:** Java Swing (NetBeans GUI) 
 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ## ⚙️ Installation & Setup
 
@@ -38,9 +42,6 @@ It allows **admins** to create and manage quizzes/exams, while **students** can 
 4. Update database connection settings in the code (JDBC URL, username, password)
 
 5. Run the project from NetBeans    
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## 🗄️ Database
 
