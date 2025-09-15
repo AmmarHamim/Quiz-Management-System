@@ -1,7 +1,8 @@
 # Quiz and Exam Management System
 
-A **Java OOP desktop application** built with **NetBeans GUI** and **MySQL database** for managing quizzes and exams.  
-It allows **admins** to create and manage quizzes/exams, while **students** can participate in exams and view their results.
+A **Java OOP desktop application** developed using **NetBeans GUI** and **MySQL database**.  
+This project was created as part of our **1–2 semester project**.
+
 ## 🚀 Features
 
 **Admin Panel**
@@ -26,7 +27,10 @@ It allows **admins** to create and manage quizzes/exams, while **students** can 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Home Page](https://i.ibb.co.com/2Yh4LwDP/Screenshot-2025-09-15-223717.png)
+![Login Page](https://i.ibb.co/your-image-link.png)
+![Admin Dashboard](https://i.ibb.co/your-image-link2.png)
+![Student Panel](https://i.ibb.co/your-image-link3.png)
 
 
 ## ⚙️ Installation & Setup
