@@ -27,11 +27,14 @@ This project was created as part of our **1–2 semester project**.
 
 ## 📸 Screenshots
 
-### Home Page
-![Login Page](https://i.ibb.co/2Yh4LwDP/Screenshot-2025-09-15-223717.png)
+### Dashboard
+![Dashboard](https://i.ibb.co/Vp94hd7D/Screenshot-2025-09-15-223717.png)
 
-### Exam site
-![Dashboard](https://i.ibb.co/q3XQmL5h/Screenshot-2025-09-15-224328.png)
+### Student Info
+![Info](https://i.ibb.co/q3XQmL5h/Screenshot-2025-09-15-224328.png)
+
+### Exam Site
+![Exam Site](https://i.ibb.co/WvKjnD1r/Screenshot-2025-09-15-235236.png)
 
 ### Result Page
 ![Result Page](https://i.ibb.co/MxCqbQC7/Screenshot-2025-09-15-230859.png)
